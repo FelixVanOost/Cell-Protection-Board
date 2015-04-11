@@ -6,7 +6,7 @@ A PCB to link the cell voltage taps of eight parallel 6S batteries and protect t
 
 This project is developed by the [Electric Car Club](http://ubcelectriccar.com/) at the University of British Columbia, whose current goal is to break the world record for the fastest 1/4 mile in a street-legal electric car. The car, named Elektra, is a modified 1963 Volkswagen Beetle.
 
-![Image of Cell Protection Board](https://raw.githubusercontent.com/FelixVanOost/Cell-Protection-Board/master/Photos%20%26%20Renderings/Cell%20Protection%20Board%201.JPG)
+![Image of Cell Protection Board](https://raw.githubusercontent.com/FelixVanOost/Cell-Protection-Board/84640f141ac1f19269a229b15f1320e1e7a3f6a7/Photos%20%26%20Renderings/Cell%20Protection%20Board%201.JPG)
 *Cell Protection Board - Rev. A*
 
 ----------
